@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🐱‍💻 Bem-vindo ao meu GitHub! 🐱‍🏍
 
-<!--
-**Marcelodevs013/Marcelodevs013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou o **Marcelo** 👋.
 
-Here are some ideas to get you started:
+Este repositório foi criado com fins **educativos** e para **postagem de exercícios resolvidos** durante meus cursos e estudos. Aqui, você encontrará exemplos práticos e projetos que refletem minha jornada de aprendizado no mundo da tecnologia. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivos:
+- Compartilhar conhecimento.
+- Praticar e documentar o aprendizado.
+- Inspirar e colaborar com a comunidade.
+
+Sinta-se à vontade para explorar e, se gostar do conteúdo, não esqueça de dar uma ⭐!
+
+---
+
+🦸 Obrigado por visitar meu repositório! Vamos juntos construir algo incrível! 🌟
