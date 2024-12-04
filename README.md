@@ -24,7 +24,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 ## 🚀 Projetos por Cursos  
 
 ### 💻 Curso: Ri Happy - Front-end do Zero  
-**Instituição:** [DevSoluX Academy](https://devsolux.com)  
+**Instituição:** [DIO](https://auth.dio.me/realms/master/protocol/openid-connect/auth?client_id=spa-core-client&redirect_uri=https%3A%2F%2Fweb.dio.me%2Fhome&state=47412e1c-2c2a-489f-8d42-434e81cbca06&response_mode=fragment&response_type=code&scope=openid&nonce=9b5f6cf7-4efe-4170-8556-ee7dac325f26)  
 **Período:** Janeiro de 2024 – Maio de 2024  
 | Projeto         | Descrição                                                                                   | Link                                                                                 |
 |-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
