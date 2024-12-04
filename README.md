@@ -23,7 +23,8 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ## 🚀 Projetos por Cursos  
 
-### 💻 Curso: Ri Happy - Front-end do Zero  
+### 💻 Curso: Ri Happy - Front-end do Zero
+**Repositório principal:** [Repositório do curso](https://github.com/marcelofdsantos/fundamentos-de-programacao)  
 **Instituição:** [DIO.me](https://www.dio.me/)  
 **Período:** Janeiro de 2024 – Maio de 2024  
 | Projeto         | Descrição                                                                                   | Link                                                                                 |
