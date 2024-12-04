@@ -41,6 +41,16 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Divina Pizza    | Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online. | [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)                      |
 | Burger Star     | Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Burger Star](https://github.com/marcelofdsantos/burger-star)                        |
 | Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
+---
+
+### 💻 Curso: Desenvolvimento Front-End  
+**Instituição:** [DevSoluX Academy](https://devsolux.com)  
+**Período:** Janeiro de 2024 – Maio de 2024  
+| Projeto         | Descrição                                                                                   | Link                                                                                 |
+|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Divina Pizza    | Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online. | [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)                      |
+| Burger Star     | Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Burger Star](https://github.com/marcelofdsantos/burger-star)                        |
+| Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
 
 ---
 ## ✨ Meu Propósito  
