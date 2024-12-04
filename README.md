@@ -24,7 +24,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 ## 🚀 Projetos por Cursos  
 
 ### 💻 Curso: Ri Happy - Front-end do Zero  
-**Instituição:** [DIO](https://auth.dio.me/realms/master/protocol/openid-connect/auth?client_id=spa-core-client&redirect_uri=https%3A%2F%2Fweb.dio.me%2Fhome&state=47412e1c-2c2a-489f-8d42-434e81cbca06&response_mode=fragment&response_type=code&scope=openid&nonce=9b5f6cf7-4efe-4170-8556-ee7dac325f26)  
+**Instituição:** [DIO.me](https://www.dio.me/)  
 **Período:** Janeiro de 2024 – Maio de 2024  
 | Projeto         | Descrição                                                                                   | Link                                                                                 |
 |-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Burger Star     | Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Burger Star](https://github.com/marcelofdsantos/burger-star)                        |
 | Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
 ---
-
+<!--
 ### 💻 Curso: Desenvolvimento Front-End  
 **Instituição:** [DevSoluX Academy](https://devsolux.com)  
 **Período:** Janeiro de 2024 – Maio de 2024  
@@ -53,6 +53,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
 
 ---
+-->
 ## ✨ Meu Propósito  
 🛠️ Este espaço é dedicado a crescer e compartilhar conhecimentos.  
 **Juntos podemos transformar aprendizado em ação!**  
