@@ -24,6 +24,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 ## 🚀 Projetos por Cursos  
 
 ### 💻 Curso: Desenvolvimento Front-End  
+**Período:** Janeiro de 2024 – Maio de 2024  
 | Projeto         | Descrição                                                                                   | Link                                                                                 |
 |-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | Divina Pizza    | Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online. | [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)                      |
@@ -33,6 +34,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 ---
 
 ### 📚 Curso: Fundamentos de Programação  
+**Período:** Agosto de 2023 – Dezembro de 2023  
 | Projeto         | Descrição                                                                 | Link                                                                      |
 |-----------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Exercícios Lógica | Resoluções práticas de lógica de programação.                           | [Exercícios Lógica](https://github.com/marcelofdsantos/exercicios-logica) |
@@ -41,6 +43,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 ---
 
 ### 🔧 Outros Cursos e Projetos  
+**Período:** Diversos  
 | Projeto          | Descrição                                                                  | Link                                                                               |
 |------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Estudos React    | Repositório com códigos e exercícios explorando React.js.                  | [Estudos React](https://github.com/marcelofdsantos/estudos-react)                 |
