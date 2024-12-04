@@ -23,7 +23,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ## 🚀 Projetos por Cursos  
 
-### 💻 Curso: Desenvolvimento Front-End  
+### 💻 Curso: Ri Happy - Front-end do Zero  
 **Instituição:** [DevSoluX Academy](https://devsolux.com)  
 **Período:** Janeiro de 2024 – Maio de 2024  
 | Projeto         | Descrição                                                                                   | Link                                                                                 |
