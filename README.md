@@ -33,23 +33,6 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ---
 
-### 📚 Curso: Fundamentos de Programação  
-**Período:** Agosto de 2023 – Dezembro de 2023  
-| Projeto         | Descrição                                                                 | Link                                                                      |
-|-----------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Exercícios Lógica | Resoluções práticas de lógica de programação.                           | [Exercícios Lógica](https://github.com/marcelofdsantos/exercicios-logica) |
-| POO Exemplos    | Exemplos práticos aplicando conceitos de Programação Orientada a Objetos. | [POO Exemplos](https://github.com/marcelofdsantos/poo-exemplos)          |
-
----
-
-### 🔧 Outros Cursos e Projetos  
-**Período:** Diversos  
-| Projeto          | Descrição                                                                  | Link                                                                               |
-|------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Estudos React    | Repositório com códigos e exercícios explorando React.js.                  | [Estudos React](https://github.com/marcelofdsantos/estudos-react)                 |
-| Animações CSS    | Projetos simples aplicando animações com CSS puro.                         | [Animações CSS](https://github.com/marcelofdsantos/animacoes-css)                 |
-
----
 
 ## ✨ Meu Propósito  
 🛠️ Este espaço é dedicado a crescer e compartilhar conhecimentos.  
