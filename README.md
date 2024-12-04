@@ -12,13 +12,13 @@ Este repositório foi criado com o objetivo de compartilhar:
 📂 **Repositórios com soluções criativas:**  
 - Exercícios práticos, resoluções comentadas e ideias úteis.  
 - Pequenos projetos desenvolvidos como parte do aprendizado.  
-
+<!--
 💻 **Tecnologias que exploro:**  
 - React, JavaScript, Tailwind CSS, Next.js e mais!  
 
 🌟 **Inspiração para outros estudantes:**  
 - Se algo te ajudar ou inspirar, deixa uma ⭐!  
-
+-->
 ---
 
 ## 🚀 Projetos por Cursos  
