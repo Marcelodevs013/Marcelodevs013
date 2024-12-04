@@ -33,7 +33,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
 
 ---
-
+---
 
 ## ✨ Meu Propósito  
 🛠️ Este espaço é dedicado a crescer e compartilhar conhecimentos.  
