@@ -12,9 +12,24 @@ Este repositório foi criado com o objetivo de compartilhar:
 📂 **Repositórios com soluções criativas:**  
 - Exercícios práticos, resoluções comentadas e ideias úteis.  
 - Pequenos projetos desenvolvidos como parte do aprendizado.  
-  
+
+💻 **Tecnologias que exploro:**  
+- React, JavaScript, Tailwind CSS, Next.js e mais!  
+
 🌟 **Inspiração para outros estudantes:**  
 - Se algo te ajudar ou inspirar, deixa uma ⭐!  
+
+---
+
+## 🚀 Explore meus outros projetos  
+🔗 [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)  
+Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online.  
+
+🔗 [Burger Star](https://github.com/marcelofdsantos/burger-star)  
+Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.  
+
+🔗 [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)  
+Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS.  
 
 ---
 
