@@ -21,15 +21,30 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ---
 
-## 🚀 Explore meus outros projetos  
-🔗 [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)  
-Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online.  
+## 🚀 Projetos por Cursos  
 
-🔗 [Burger Star](https://github.com/marcelofdsantos/burger-star)  
-Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.  
+### 💻 Curso: Desenvolvimento Front-End  
+| Projeto         | Descrição                                                                                   | Link                                                                                 |
+|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Divina Pizza    | Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online. | [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)                      |
+| Burger Star     | Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Burger Star](https://github.com/marcelofdsantos/burger-star)                        |
+| Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
 
-🔗 [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)  
-Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS.  
+---
+
+### 📚 Curso: Fundamentos de Programação  
+| Projeto         | Descrição                                                                 | Link                                                                      |
+|-----------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Exercícios Lógica | Resoluções práticas de lógica de programação.                           | [Exercícios Lógica](https://github.com/marcelofdsantos/exercicios-logica) |
+| POO Exemplos    | Exemplos práticos aplicando conceitos de Programação Orientada a Objetos. | [POO Exemplos](https://github.com/marcelofdsantos/poo-exemplos)          |
+
+---
+
+### 🔧 Outros Cursos e Projetos  
+| Projeto          | Descrição                                                                  | Link                                                                               |
+|------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Estudos React    | Repositório com códigos e exercícios explorando React.js.                  | [Estudos React](https://github.com/marcelofdsantos/estudos-react)                 |
+| Animações CSS    | Projetos simples aplicando animações com CSS puro.                         | [Animações CSS](https://github.com/marcelofdsantos/animacoes-css)                 |
 
 ---
 
