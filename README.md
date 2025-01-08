@@ -29,7 +29,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 **Período:** Janeiro de 2024 – Maio de 2024  
 
 | Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                                                 |
-|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 |Santander Bootcamp Cibersegurança #2   | Um aplicativo interativo para pizzarias com personalização de ingredientes e pedidos online. | [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)                      |
 
 ---
