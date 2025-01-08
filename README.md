@@ -32,8 +32,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 |Santander Bootcamp Cibersegurança #2   | conhecimentos fundamentais e práticos sobre cibersegurança | [Bootcamp](https://github.com/Marcelodevs013/Santander-Bootcamp-Ciberseguranca)                      |
 |Desafio-Phishing| Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Desafio Phishing](https://github.com/Marcelodevs013/Desafio-Phishing-para-captura-de-senhas-do-Intagram)                        |
-| Desafio Ransomware  | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Desafio-Ransomware
-](https://github.com/Marcelodevs013/Desafio-Ransomware)                    |
+| Desafio Ransomware  | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Desafio-Ransomware](https://github.com/Marcelodevs013/Desafio-Ransomware)                    |
 
 ---
 
