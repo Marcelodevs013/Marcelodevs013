@@ -24,15 +24,16 @@ Este repositório foi criado com o objetivo de compartilhar:
 ## 🚀 Projetos por Cursos  
 
 ### 💻 Curso: Santander Bootcamp Cibersegurança #2
-**Repositório principal:** [Repositório do curso](https://github.com/marcelofdsantos/fundamentos-de-programacao)  
+**Repositório principal:** [Repositório do curso](https://github.com/Marcelodevs013/Santander-Bootcamp-Ciberseguranca)  
 **Instituição:** [DIO.me](https://web.dio.me/)  
 **Período:** 03/12/2024 – 08/01/2024  
 
 | Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|Santander Bootcamp Cibersegurança #2   | conhecimentos fundamentais e práticos sobre cibersegurança | [Divina Pizza](https://github.com/marcelofdsantos/divina-pizza)                      |
-| Burger Star     | Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Burger Star](https://github.com/marcelofdsantos/burger-star)                        |
-| Meu Portfólio   | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Meu Portfólio](https://github.com/marcelofdsantos/meu-portfolio)                    |
+|Santander Bootcamp Cibersegurança #2   | conhecimentos fundamentais e práticos sobre cibersegurança | [Bootcamp](https://github.com/Marcelodevs013/Santander-Bootcamp-Ciberseguranca)                      |
+|Desafio-Phishing| Cardápio dinâmico para hambúrgueres com tema claro/escuro e design responsivo.               | [Desafio Phishing](https://github.com/Marcelodevs013/Desafio-Phishing-para-captura-de-senhas-do-Intagram)                        |
+| Desafio Ransomware  | Apresentação dos meus projetos, habilidades e contato, desenvolvido com Next.js e TailwindCSS. | [Desafio-Ransomware
+](https://github.com/Marcelodevs013/Desafio-Ransomware)                    |
 
 ---
 
