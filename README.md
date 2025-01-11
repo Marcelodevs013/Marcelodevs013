@@ -35,7 +35,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Desafio Ransomware  | O Desafio Ransomware simula um ataque de criptografia de arquivos, ensinando técnicas de exploração e mitigação para fortalecer a segurança contra esse tipo de ameaça.| [Desafio-Ransomware](https://github.com/Marcelodevs013/Desafio-Ransomware) |
 
 ---
-
+***
 <!--
 
 ### 💻 Curso: Ri Happy - Front-end do Zero
