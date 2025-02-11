@@ -39,7 +39,6 @@ Este repositório foi criado com o objetivo de compartilhar:
 <!--
 
 ### 💻 Curso: Santander Bootcamp Cibersegurança #2
-<!--**Repositório principal:** [Repositório do curso](https://github.com/Marcelodevs013/Santander-Bootcamp-Ciberseguranca)  -->
 **Instituição:** [DIO.me](https://web.dio.me/)  
 **Período:** 03/12/2024 – 08/01/2024  
 
