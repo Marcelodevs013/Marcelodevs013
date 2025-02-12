@@ -29,7 +29,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 | Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| LOGPROG12025A| Começando a desenvolver seus primeiros programas | [  Repositório  ](https://github.com/Marcelodevs013/LOGPROG12025A)    |
+| LOGPROG12025A| Começando a desenvolver os primeiros programas | [  Repositório  ](https://github.com/Marcelodevs013/LOGPROG12025A)    |
 <!--
 |Desafio Phishing| O Desafio Phishing envolve a criação e simulação de ataques fraudulentos para capturar informações sensíveis, ensinando a identificar e prevenir esse tipo de ameaça. | [Desafio-Phishing](https://github.com/Marcelodevs013/Desafio-Phishing-para-captura-de-senhas-do-Intagram) |
 
