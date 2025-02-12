@@ -23,6 +23,20 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ## 🚀 Projetos e Cursos - Concluido
 
+### 💻 Curso: Lógica de Programação
+**Instituição:** [Instituto Federal](https://moodle.ifrs.edu.br/)  
+**Período:** 20/01/2025 – 11/02/2025  
+
+| Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
+|-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| LOGPROG12025A| Começando a desenvolver seus primeiros programas | [Repositório](https://github.com/Marcelodevs013/LOGPROG12025A)    |
+<!--
+|Desafio Phishing| O Desafio Phishing envolve a criação e simulação de ataques fraudulentos para capturar informações sensíveis, ensinando a identificar e prevenir esse tipo de ameaça. | [Desafio-Phishing](https://github.com/Marcelodevs013/Desafio-Phishing-para-captura-de-senhas-do-Intagram) |
+
+| Desafio Ransomware  | O Desafio Ransomware simula um ataque de criptografia de arquivos, ensinando técnicas de exploração e mitigação para fortalecer a segurança contra esse tipo de ameaça.| [Desafio-Ransomware](https://github.com/Marcelodevs013/Desafio-Ransomware) |
+-->
+---
+
 ### 💻 Curso: Santander Bootcamp Cibersegurança #2
 <!--**Repositório principal:** [Repositório do curso](https://github.com/Marcelodevs013/Santander-Bootcamp-Ciberseguranca)  -->
 **Instituição:** [DIO.me](https://web.dio.me/)  
@@ -35,23 +49,6 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Desafio Ransomware  | O Desafio Ransomware simula um ataque de criptografia de arquivos, ensinando técnicas de exploração e mitigação para fortalecer a segurança contra esse tipo de ameaça.| [Desafio-Ransomware](https://github.com/Marcelodevs013/Desafio-Ransomware) |
 
 ---
-
-
-
-### 💻 Curso: Lógica de Programação
-**Instituição:** [Instituto Federal](https://moodle.ifrs.edu.br/)  
-**Período:** 03/12/2024 – 08/01/2024  
-
-| Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
-|-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| LOGPROG12025A| Começando a desenvolver seus primeiros programas | [Repositório](https://github.com/Marcelodevs013/LOGPROG12025A)    |
-<!--
-|Desafio Phishing| O Desafio Phishing envolve a criação e simulação de ataques fraudulentos para capturar informações sensíveis, ensinando a identificar e prevenir esse tipo de ameaça. | [Desafio-Phishing](https://github.com/Marcelodevs013/Desafio-Phishing-para-captura-de-senhas-do-Intagram) |
-
-| Desafio Ransomware  | O Desafio Ransomware simula um ataque de criptografia de arquivos, ensinando técnicas de exploração e mitigação para fortalecer a segurança contra esse tipo de ameaça.| [Desafio-Ransomware](https://github.com/Marcelodevs013/Desafio-Ransomware) |
--->
----
-
 
 
 ## ✨ Meu Propósito  
