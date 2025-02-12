@@ -44,7 +44,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 | Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| LOGPROG12025A| Começando a desenvolver seus primeiros programas | [Bootcamp](https://github.com/Marcelodevs013/Santander-Bootcamp-Ciberseguranca)                      |
+| LOGPROG12025A| Começando a desenvolver seus primeiros programas | [Turma 2025A](https://github.com/Marcelodevs013/LOGPROG12025A)    |
 |Desafio Phishing| O Desafio Phishing envolve a criação e simulação de ataques fraudulentos para capturar informações sensíveis, ensinando a identificar e prevenir esse tipo de ameaça. | [Desafio-Phishing](https://github.com/Marcelodevs013/Desafio-Phishing-para-captura-de-senhas-do-Intagram) |
 | Desafio Ransomware  | O Desafio Ransomware simula um ataque de criptografia de arquivos, ensinando técnicas de exploração e mitigação para fortalecer a segurança contra esse tipo de ameaça.| [Desafio-Ransomware](https://github.com/Marcelodevs013/Desafio-Ransomware) |
    
