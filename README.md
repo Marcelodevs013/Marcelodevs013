@@ -30,7 +30,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 | Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | LOGPROG12025A| Começando a desenvolver os primeiros programas | [  Repositório  ](https://github.com/Marcelodevs013/LOGPROG12025A)    |
-| LOGPROG32025A| múltiplos valores e módulos | [  Repositório  ](https://github.com/Marcelodevs013/LOGPROG12025A)    |
+| LOGPROG32025A| múltiplos valores e módulos | [  Repositório  ](https://github.com/Marcelodevs013/Logica-da-Programacao-LOGPROG32025A)    |
 
 ---
 
