@@ -36,7 +36,7 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ---
 
-<!--
+
 
 ### 💻 Curso: Lógica de Programação
 **Instituição:** [Instituto Federal](https://moodle.ifrs.edu.br/)  
@@ -50,7 +50,7 @@ Este repositório foi criado com o objetivo de compartilhar:
    
 ---
 
--->
+
 
 ## ✨ Meu Propósito  
 🛠️ Este espaço é dedicado a crescer e compartilhar conhecimentos.  
