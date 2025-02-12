@@ -25,7 +25,8 @@ Este repositório foi criado com o objetivo de compartilhar:
 
 ### 💻 Curso: Lógica de Programação
 **Instituição:** [Instituto Federal](https://moodle.ifrs.edu.br/)  
-**Período:** 20/01/2025 – 11/02/2025  
+**Período LOGPROG12025A:** 20/01/2025 – 11/02/2025  
+**Período LOGPROG32025A:** 20/01/2025 – 12/02/2025
 
 | Projeto/Cursos  | Descrição                                                                                   | Repositório / Certificação                                                |
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
